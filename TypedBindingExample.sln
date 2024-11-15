@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypedBindingExample", "TypedBindingExample\TypedBindingExample.csproj", "{5F26DE92-C4EC-4907-B326-568A1380F5DC}"
 EndProject
@@ -13,6 +13,7 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5F26DE92-C4EC-4907-B326-568A1380F5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5F26DE92-C4EC-4907-B326-568A1380F5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F26DE92-C4EC-4907-B326-568A1380F5DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{5F26DE92-C4EC-4907-B326-568A1380F5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F26DE92-C4EC-4907-B326-568A1380F5DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
